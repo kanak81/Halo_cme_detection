@@ -9,9 +9,9 @@ Early detection of solar transients (Halo CMEs) is critical for predicting space
 
 ## 📁 Data Sources
 
-- **SWIS Level-2 CDF** files from [PRADAN](https://pradan.issdc.gov.in/)
-- **CACTUS CME Catalog**: LASCO CME detections
-- **Richardson-Cane ICME list**: Ground truth validation
+- **SWIS Level-2 CDF** files from [SWIS](https://pradan.issdc.gov.in/)
+- **CACTUS CME Catalog**: LASCO CME detections from [CACTUS](https://www.sidc.be/cactus/)
+- **Richardson-Cane ICME list**: Ground truth validation from [RC_ICME](https://izw1.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm)
 
 ---
 
@@ -24,14 +24,6 @@ Early detection of solar transients (Halo CMEs) is critical for predicting space
 - Derive thresholds for CME detection
 
 ---
-
-## 📈 Key Visualizations
-
-- Proton bulk speed and density during CME periods
-- Time-aligned plots with CME/ICME markers
-- Transit time histogram
-
---- 
 
 ## 📁 Project Structure
 
