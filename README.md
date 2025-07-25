@@ -33,9 +33,6 @@ Early detection of solar transients (Halo CMEs) is critical for predicting space
 | `final_threshold_values_all_features.csv` | Thresholds (mean, median, 90th percentile, etc.) for all features |
 | `improved_cme_detection_weighted.csv` | Rule-based CME detection scores and binary detection labels |
 | `final_cme_predictions.csv` | Decision tree model predictions for each CME window |
-| `feature_importance.csv` | Importance of each feature as learned by the decision tree |
-| `img/featured_window_example.png` | Example plot showing windowed plasma feature behavior during CME |
-| `img/threshold_plots_summary.png` | Visuals showing how plasma parameters exceed thresholds |
 
 ---
 
@@ -83,15 +80,5 @@ Early detection of solar transients (Halo CMEs) is critical for predicting space
 | `improved_cme_detection_weighted.csv` | Weighted detection logic with scores and labels |
 | `cme_summary_features_per_window.csv` | Mean, max, std per feature (window level) |
 | `final_cme_predictions.csv` | ML predictions on CME occurrence |
-| `feature_importance.csv` | Ranked importances of features in trained classifier |
-
----
-
-## 📷 Image Files
-
-| Image | Description |
-|-------|-------------|
-| `cme_feature_1.png` | 8-subplot chart showing raw/MA/diff/spike for one CME |
-| `cme_feature_2.png` | Threshold behavior comparison across features (pre vs post CME) |
 
 ---
