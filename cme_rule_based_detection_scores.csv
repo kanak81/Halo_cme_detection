@@ -1,0 +1,8 @@
+CME_ID,CME_Time,Total_Score,Detected_CME,Pct_Features_Exceeded,Proton_Density_Exceeded,Proton_Density_MA_Exceeded,Proton_Density_SpikeAboveMA_Exceeded,Proton_Density_Diff_Exceeded,Proton_Speed_Exceeded,Proton_Speed_MA_Exceeded,Proton_Speed_SpikeAboveMA_Exceeded,Proton_Speed_Diff_Exceeded,Proton_Temperature_Exceeded,Proton_Temperature_MA_Exceeded,Proton_Temperature_SpikeAboveMA_Exceeded,Proton_Temperature_Diff_Exceeded,Alpha_Density_Exceeded,Alpha_Density_MA_Exceeded,Alpha_Density_SpikeAboveMA_Exceeded,Alpha_Density_Diff_Exceeded,Alpha_Speed_Exceeded,Alpha_Speed_MA_Exceeded,Alpha_Speed_SpikeAboveMA_Exceeded,Alpha_Speed_Diff_Exceeded,Alpha_Temperature_Exceeded,Alpha_Temperature_MA_Exceeded,Alpha_Temperature_SpikeAboveMA_Exceeded,Alpha_Temperature_Diff_Exceeded,Velocity_Magnitude_Exceeded,Velocity_Magnitude_MA_Exceeded,Velocity_Magnitude_SpikeAboveMA_Exceeded,Velocity_Magnitude_Diff_Exceeded,He_H_Ratio_Exceeded,He_H_Ratio_MA_Exceeded,He_H_Ratio_SpikeAboveMA_Exceeded,He_H_Ratio_Diff_Exceeded,Confidence
+145,2024-08-28 04:12:00,28,1,0.875,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0.875
+128,2024-08-24 18:48:00,26,1,0.812,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0.8125
+64,2024-08-14 07:00:00,30,1,0.938,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9375
+38,2024-08-09 21:48:00,32,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0
+35,2024-08-08 19:48:00,32,1,1.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0
+32,2024-08-07 19:24:00,24,1,0.75,0,0,1,1,1,0,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0.75
+1,2024-09-01 11:24:00,23,1,0.719,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0.71875
